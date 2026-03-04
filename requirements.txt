@@ -1,0 +1,15 @@
+yfinance
+pandas
+numpy
+python-dotenv
+scikit-learn
+beautifulsoup4
+lxml
+tensorflow
+matplotlib
+joblib
+transformers
+torch
+sentencepiece
+sacremoses
+google-generativeai
